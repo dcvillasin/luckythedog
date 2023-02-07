@@ -1,0 +1,21 @@
+
+body {
+  background-color: #FFFBE9;
+}
+
+hr {
+  border: 7px dotted #E3CAA5;
+  border-style: none none dotted; 
+  color: #fff; 
+  background-color: #fff;
+  width: 5%;
+}
+
+h1 {
+  color: #AD8B73;
+  font-family: "Lucida Handwriting";
+}
+
+h3 {
+  color: #AD8B73;
+}
